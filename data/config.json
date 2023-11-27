@@ -1,0 +1,19 @@
+{
+    "logs_channel": "1173665605547720786",
+    "mojira_channel": "",
+    "autoPurgeGuilds": [
+        {
+            "id": "0",
+            "time": 21600000
+        },
+        {
+            "id": "0",
+            "time": 43200000
+        }
+    ],
+    "honeypotRealmXUIDs": [
+        "0",
+        "0",
+        "0"
+    ]
+}

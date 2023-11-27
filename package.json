@@ -1,0 +1,38 @@
+{
+  "name": "yern",
+  "version": "1.0.0-beta",
+  "description": "yern: The #1 Anti P2W Realm Tool used.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --trace-warnings ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antip2wmovement/catary.git"
+  },
+  "keywords": [],
+  "authors": [
+    "MrDiamond64",
+    "w0ahL",
+    "Wylx-32k",
+    "brosmagic",
+    "VortexxJS",
+    "Atomic69420"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antip2wmovement/catary/issues"
+  },
+  "homepage": "https://github.com/antip2wmovement/catary#readme",
+  "dependencies": {
+    "bedrock-protocol": "^3.32.0",
+    "dotenv": "^16.0.3",
+    "eris": "^0.17.2",
+    "jsonwebtoken": "^9.0.0",
+    "minecraft-data": "^3.47.0",
+    "mongoose": "^6.10.1",
+    "node-fetch": "^2.6.11",
+    "prismarine-auth": "^2.1.1",
+    "uuid": "^9.0.0"
+  }
+}
